@@ -29,7 +29,7 @@
 \hypersetup{
     pdftitle={Título del Documento},
     pdfauthor={Autor del Documento},
-    pdfkeywords={Sistemas Embebidos, Internet de las Cosas, Inteligencia Artificial},
+    pdfkeywords={Inteligencia Artificial},
     pdfstartview={FitH},
     unicode=true,
     colorlinks=true,
@@ -51,8 +51,8 @@
 
 
 % Definir comandos requeridos por la clase
-\newcommand{\degreename}{Maestría en Ciencias} % Cambia según tu título
-\newcommand{\univname}{Universidad Nacional de Ejemplo} % Cambia según tu universidad
+\newcommand{\degreename}{Especialización en Inteligencia Artificial} % Cambia según tu título
+\newcommand{\univname}{Universidad de Buenos Aires} % Cambia según tu universidad
 \newcommand{\keywordnames}{Palabras clave:}
 %----------------------------------------------------------------------------------------
 % Documento Principal
@@ -61,8 +61,8 @@
 \begin{document}
 
 % Configuración de la portada
-\posgrado{Carrera / Maestría}
-\keywords{Sistemas Embebidos, Internet de las Cosas, Inteligencia Artificial}
+\posgrado{Carrera de Especialización en Inteligencia Artificial}
+\keywords{Inteligencia Artificial}
 
 % Incluir la portada desde un archivo separado
 \include{portada}
@@ -77,7 +77,9 @@
 
 \begin{abstract}
 \addchaptertocentry{\abstractname} % Agregar resumen al índice
-El resumen debe escribirse en uno o dos párrafos. Debe ser breve y conciso, sin ningún elemento de formato en el texto como itálicas o negritas. Tampoco se deben usar siglas ni acrónimos que no resulten obvios para un lector promedio de la memoria, ni referencias bibliográficas o notas al pie de página. No debe faltar qué es lo que se hizo/logró, qué importancia/valor tiene el proyecto/resultado, qué va a encontrar el lector en la memoria y qué contenidos de la especialización/maestría se aplicaron en el proyecto.
+En la presente memoria se aborda la aplicación de técnicas de aprendizaje profundo para la resolución de problemas en mecánica del sólido. El trabajo se divide en dos etapas: en la primera parte, se implementa un enfoque híbrido que integra redes neuronales con el método de los elementos finitos. Posteriormente, en la segunda etapa, se extiende el marco a simulaciones multiescala de materiales heterogéneos mediante Operadores Neuronales de Fourier como modelos constitutivos subrogados.
+
+Durante el desarrollo de este trabajo, se aplicaron conocimientos de aprendizaje profundo, redes neuronales informadas por física y algoritmos evolutivos.
 \end{abstract}
 
 %----------------------------------------------------------------------------------------
@@ -86,7 +88,7 @@ El resumen debe escribirse en uno o dos párrafos. Debe ser breve y conciso, sin
 
 \begin{acknowledgements}
 \vspace{1.5cm}
-Esta sección es para agradecimientos personales y es totalmente \textbf{OPCIONAL}.
+\textbf{TODO}.
 \end{acknowledgements}
 
 %----------------------------------------------------------------------------------------
@@ -96,12 +98,6 @@ Esta sección es para agradecimientos personales y es totalmente \textbf{OPCIONA
 \tableofcontents
 \listoffigures
 \listoftables
-
-%----------------------------------------------------------------------------------------
-% Dedicatoria
-%----------------------------------------------------------------------------------------
-
-\dedicatory{\textbf{Dedicado a... [OPCIONAL]}}
 
 %----------------------------------------------------------------------------------------
 % Capítulos
@@ -124,7 +120,7 @@ Esta sección es para agradecimientos personales y es totalmente \textbf{OPCIONA
 \appendix
 
 % Incluir apéndices desde archivos separados si es necesario
-%\include{Appendices/AppendixA}
+\include{Appendices/AppendixA}
 
 %----------------------------------------------------------------------------------------
 % Bibliografía

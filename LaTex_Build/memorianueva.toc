@@ -1,0 +1,43 @@
+\babel@toc {spanish}{}\relax 
+\contentsline {chapter}{Resumen}{\es@scroman {i}}{section*.1}%
+\contentsline {chapter}{\numberline {1}Introducción general}{1}{chapter.1}%
+\contentsline {section}{\numberline {1.1}Motivación}{1}{section.1.1}%
+\contentsline {section}{\numberline {1.2}Modelado y simulación en problemas de ingeniería}{1}{section.1.2}%
+\contentsline {section}{\numberline {1.3}Análisis multiescala}{1}{section.1.3}%
+\contentsline {section}{\numberline {1.4}Estado del arte}{1}{section.1.4}%
+\contentsline {subsection}{\numberline {1.4.1}La IA en problemas de mecánica del sólido computacional}{1}{subsection.1.4.1}%
+\contentsline {section}{\numberline {1.5}Objetivos y alcance}{1}{section.1.5}%
+\contentsline {chapter}{\numberline {2}Introducción específica}{3}{chapter.2}%
+\contentsline {section}{\numberline {2.1}Redes neuronales \textit {feed-forward}}{3}{section.2.1}%
+\contentsline {section}{\numberline {2.2}Redes neuronales informadas por física}{3}{section.2.2}%
+\contentsline {section}{\numberline {2.3}Elementos finitos integrado con redes neuronales}{3}{section.2.3}%
+\contentsline {section}{\numberline {2.4}Operadores neuronales de Fourier}{3}{section.2.4}%
+\contentsline {section}{\numberline {2.5}Modulación de \textit {features}}{3}{section.2.5}%
+\contentsline {section}{\numberline {2.6}Tecnologías utilizadas}{3}{section.2.6}%
+\contentsline {chapter}{\numberline {3}Diseño e implementación}{5}{chapter.3}%
+\contentsline {section}{\numberline {3.1}Descripción del \textit {framework} FEINN}{5}{section.3.1}%
+\contentsline {section}{\numberline {3.2}Arquitectura de redes neuronales para modelos FEINN}{5}{section.3.2}%
+\contentsline {section}{\numberline {3.3}Entrenamiento de modelos FEINN}{5}{section.3.3}%
+\contentsline {section}{\numberline {3.4}Desarrollo de modelo constitutivo subrogado basado en FNO}{5}{section.3.4}%
+\contentsline {section}{\numberline {3.5}Pre-procesamiento de los datos del modelo subrogado}{5}{section.3.5}%
+\contentsline {section}{\numberline {3.6}Arquitectura del FNO}{5}{section.3.6}%
+\contentsline {section}{\numberline {3.7}Optimización de hiperparámetros del FNO}{5}{section.3.7}%
+\contentsline {section}{\numberline {3.8}Evaluación de métricas}{6}{section.3.8}%
+\contentsline {section}{\numberline {3.9}Acoplamiento FEINN-FNO para análisis multiescala}{6}{section.3.9}%
+\contentsline {chapter}{\numberline {4}Ensayos y resultados}{7}{chapter.4}%
+\contentsline {section}{\numberline {4.1}Consideraciones generales}{7}{section.4.1}%
+\contentsline {section}{\numberline {4.2}FEINN}{7}{section.4.2}%
+\contentsline {subsection}{\numberline {4.2.1}Caso de estudio 1: Placa con concentrador de tensiones}{7}{subsection.4.2.1}%
+\contentsline {subsection}{\numberline {4.2.2}Caso de estudio 2: Matriz blanda con inclusión}{7}{subsection.4.2.2}%
+\contentsline {section}{\numberline {4.3}Modelo subrogado basado en FNO}{7}{section.4.3}%
+\contentsline {subsection}{\numberline {4.3.1}Configuración del caso de estudio}{7}{subsection.4.3.1}%
+\contentsline {subsection}{\numberline {4.3.2}Generación de datos sintéticos}{7}{subsection.4.3.2}%
+\contentsline {subsection}{\numberline {4.3.3}Optimización de hiperparámetros}{7}{subsection.4.3.3}%
+\contentsline {subsection}{\numberline {4.3.4}Entrenamiento del modelo}{8}{subsection.4.3.4}%
+\contentsline {subsection}{\numberline {4.3.5}Evaluación de métricas}{8}{subsection.4.3.5}%
+\contentsline {section}{\numberline {4.4}Acoplamiento FEINN-FNO para análisis multiescala}{8}{section.4.4}%
+\contentsline {subsection}{\numberline {4.4.1}Análisis de resultados}{8}{subsection.4.4.1}%
+\contentsline {chapter}{\numberline {5}Conclusiones}{9}{chapter.5}%
+\contentsline {section}{\numberline {5.1}Conclusiones generales}{9}{section.5.1}%
+\contentsline {section}{\numberline {5.2}Futuros trabajos}{9}{section.5.2}%
+\contentsline {chapter}{\numberline {A}Appendix Title Here}{11}{appendix.Alph1}%
